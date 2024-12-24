@@ -39,6 +39,6 @@ Foodie Hamburger is a sleek and modern website for showcasing the best hamburger
 ## 🤝 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/pushkar111)
-- [Portfolio](https://https://pushkarmodidev.netlify.app)
+- [Portfolio](https://pushkarmodidev.netlify.app)
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project. 😊
